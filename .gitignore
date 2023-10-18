@@ -4,7 +4,7 @@
 ### Terraform ###
 # Local .terraform directories
 **/.terraform/*
-gauth-provider.tf
+
 
 # .tfstate files
 *.tfstate
