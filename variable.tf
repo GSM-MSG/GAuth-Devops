@@ -12,3 +12,8 @@ variable "gauth_secret_key" {
   type = string
   default = "gauth_secret_key"
 }
+
+variable "gauth_state_bucket" {
+  type = string
+  default = "gauth_state_bucket"
+}
