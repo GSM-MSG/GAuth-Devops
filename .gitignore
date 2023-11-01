@@ -4,7 +4,7 @@
 ### Terraform ###
 # Local .terraform directories
 **/.terraform/*
-
+*.DS_Store
 
 # .tfstate files
 *.tfstate
@@ -39,4 +39,4 @@ override.tf.json
 terraform.rc
 .env
 
-# End of https://www.toptal.com/developers/gitignore/api/terraform
+# End of https://www.toptal.com/developers/gitignore/api/terraform.DS_Store
